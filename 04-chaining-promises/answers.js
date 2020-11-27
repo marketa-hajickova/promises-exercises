@@ -40,6 +40,7 @@ function makeGetUserByIdWithOrganization(getUserById, getOrganizationById){
   return function getUserByIdWithOrganization(userId){
     /* IMPLEMENT ME! */
   }
+}
 
 module.exports = {
   flatMapPromise,
